@@ -10,8 +10,6 @@ The ReUnite AI project utilizes deep learning algorithms to analyze facial featu
 
 ## Contributors
 
-## Contributors
-
 - [Mr. Gaurav Amarnani](https://github.com/GauravAmarnani)
 - [Mr. Chetaniya Bajaj](https://github.com/ChetaniyaBajaj)
 - [Mr. Kaplesh Mulchandani](https://github.com/KapleshMulchandani)
